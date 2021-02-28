@@ -12,6 +12,7 @@ A small puppy adoption app containing an overview screen along with a puppy deta
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
+Started with android's all new jetpack compose to build UI and develop apps using new methodology.
 
 
 ## :camera_flash: Screenshots
